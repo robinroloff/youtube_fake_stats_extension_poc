@@ -1,0 +1,11 @@
+#jan-rabek-app {
+    position: relative;
+    left: 0;
+    top: 0;
+    color: red;
+}
+
+.youtube-stats {
+    display: flex;
+    gap: 15px;
+}
