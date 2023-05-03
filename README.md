@@ -3,7 +3,7 @@
 Install: 
 
  1. Clone
- 2. Go to chrome://extensions
+ 2. Go to chrome://extensions in your browser
  3. Enable Dev Mode in the top right corner
  4. Click "Load unpacked"
  5. Choose the "extension" folder
